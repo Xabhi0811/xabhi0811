@@ -8,12 +8,11 @@
 - 🌱 Exploring **Full-Stack Development & Data Science**  
 - 🤝 Open to collaborate on **Web Development, Open Source, and Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain of **University Basketball Team**  
+- 💡 Participated in **10+ Hackathons** across India  
 - 🌍 Worked with **10+ clients**, including **4+ international projects**  
 - ⚡ Known for being **disciplined & quick to adapt** to new surroundings  
 
 ---
-
-<a herh="/images/coding.gif"></a>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -34,9 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
 ---
@@ -49,7 +52,20 @@
 
 ---
 
+### 📈 Dynamic Widgets
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabhi0811&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xabhi0811&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xabhi0811&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
-
-

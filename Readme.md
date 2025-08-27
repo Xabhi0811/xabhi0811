@@ -13,7 +13,7 @@
 
 ---
 
-<a herh="/images/coding.gif">
+<a herh="/images/coding.gif">src="/images/coding.gif"</a>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -51,3 +51,4 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+

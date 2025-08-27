@@ -12,7 +12,7 @@
 - 🌍 Worked with **10+ clients**, including **4+ international projects**  
 - ⚡ Known for being **disciplined & quick to adapt** to new surroundings
 - <img align="right" alt="Coding" width="400" src="/images
-/coding.gif">
+/coding.gif.png">
 
 ---
 
@@ -71,5 +71,6 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 

@@ -1,30 +1,53 @@
-Hi 👋, I'm Piyush Garg
-A passionate developer from India
-piyushgarg-dev
+<h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
+<h3 align="center">A passionate developer from Gwalior (M.P.), India</h3>
 
-piyushgarg-dev
+---
 
-🔭 I’m currently working on MERN Stack and Cloud Computing
+### 👨‍💻 About Me
+- 🔭 I’m currently pursuing **B.Tech in CSE (3rd Year)**  
+- 🌱 Exploring **Full-Stack Development & Data Science**  
+- 🤝 Open to collaborate on **Web Development, Open Source, and Research Projects**  
+- 🏀 **State-Level Basketball Player** | Vice-Captain of **University Basketball Team**  
+- 🌍 Worked with **10+ clients**, including **4+ international projects**  
+- ⚡ Known for being **disciplined & quick to adapt** to new surroundings  
 
-🎥 I create coding tutorial videos on YoutTube at https://youtube.com/c/piyushgarg1
+---
 
-🌱 I’m currently learning Amazon Web Services
+<a herh="/images/coding.gif">
 
-👨‍💻 All of my projects are available at https://piyushgarg.dev
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+<a href="https://x.com/chabhichauhan" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
+</a>
+</p>
 
-📝 I regularly write articles on https://piyushgarg.dev
+---
 
-💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
+### 🛠️ Tech Stack
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
-📫 How to reach me piyushgarg.dev
+---
 
-Blogs posts
-FullStack Twitter Clone
-Tic Tac Toe Game in Javascript
-Deploying Node.js functions to AWS Lambda | Serverless
-Uploading images to firebase storage with node.js
-Connect with me:
-piyushgarg195 https://piyushgarg.dev/rss.xml
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-Languages and Tools:
-android aws bootstrap c chartjs cplusplus css3 cypress dart docker express firebase flutter git graphql heroku html5 java javascript linux materialize mocha mongodb mysql nextjs nginx nodejs postgresql pug python react reactnative redis redux sass sqlite tailwind typescript
+---
+
+### 💡 Fun Fact
+_"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  

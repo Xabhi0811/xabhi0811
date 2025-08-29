@@ -87,12 +87,14 @@
 
 ## 🏆 GitHub Activity
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?Xabhi0811=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+](https://github-profile-trophy.vercel.app/?Xabhi0811=ryo-ma&row=2&column=3)
 
 ---
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

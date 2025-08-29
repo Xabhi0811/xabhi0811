@@ -87,9 +87,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xabhi0811&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
 </p>
+>
 
 ---
 
 ## 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 

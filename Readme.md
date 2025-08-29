@@ -74,18 +74,12 @@
 
 ---
 
-## ⚡ Activity Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=xabhi0811&theme=radical" alt="Commits"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=xabhi0811&theme=radical" alt="Issues"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=xabhi0811&theme=radical" alt="Pull Requests"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xabhi0811&theme=radical" alt="Repositories"/>
-</p>
 
 ---
 
 ## 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

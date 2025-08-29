@@ -86,11 +86,14 @@
 ---
 
 ## 🏆 GitHub Activity
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xabhi0811&theme=radical&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

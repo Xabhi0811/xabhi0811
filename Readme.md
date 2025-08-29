@@ -54,7 +54,7 @@
 ---
 
 ## 📈 Contributions & Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Xabhi0811&theme=radical&hide_border=true)  
+[GitHub Streak](https://streak-stats.demolab.com?user=Xabhi0811&theme=radical&hide_border=true)  
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xabhi0811&theme=react-dark&hide_border=true)
 
@@ -93,6 +93,7 @@
 
 ## 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

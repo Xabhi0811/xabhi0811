@@ -76,24 +76,26 @@
 
 ## ⚡ Activity Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=Xabhi0811&theme=radical" alt="Commits"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=Xabhi0811&theme=radical" alt="Issues"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=Xabhi0811&theme=radical" alt="Pull Requests"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xabhi0811&theme=radical" alt="Repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=xabhi0811&theme=radical" alt="Commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=xabhi0811&theme=radical" alt="Issues"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=xabhi0811&theme=radical" alt="Pull Requests"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xabhi0811&theme=radical" alt="Repositories"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xabhi0811&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xabhi0811&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
 </p>
+
 
 
 ---
 
 ## 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

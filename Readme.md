@@ -75,8 +75,19 @@
 
 ---
 
+## ⚡ Activity Overview
+![Abhishek's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xabhi0811&theme=radical)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=Xabhi0811&theme=radical)
+![Issues](https://github-profile-summary-cards.vercel.app/api/cards/issues?username=Xabhi0811&theme=radical)
+![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=Xabhi0811&theme=radical)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xabhi0811&theme=radical)
+
+---
+
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

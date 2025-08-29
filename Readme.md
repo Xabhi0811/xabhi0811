@@ -54,6 +54,12 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Xabhi0811&theme=radical&hide_border=true)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xabhi0811&theme=react-dark&hide_border=true)
+
+---
+
 ### 📈 Dynamic Widgets
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabhi0811&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -71,6 +77,7 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

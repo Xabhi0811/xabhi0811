@@ -61,9 +61,7 @@
 ---
 
 ## 📊 Dynamic Widgets
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabhi0811&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xabhi0811&theme=tokyonight" alt="GitHub Profile Summary"/>
@@ -94,3 +92,4 @@
 
 ## 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+

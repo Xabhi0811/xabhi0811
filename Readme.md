@@ -3,6 +3,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/Xabhi0811=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently pursuing **B.Tech in CSE (3rd Year)**  
 - 🌱 Exploring **Full-Stack Development & Data Science**  
@@ -94,6 +96,7 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

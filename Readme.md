@@ -18,12 +18,12 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  <img align="center" src="/images/linkedin.png" alt="LinkedIn" height="40" width="40" />
 </a>
 
   
 <a href="https://x.com/chabhichauhan" target="blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
+  <img align="center" src="/images/twitter.png" alt="Twitter/X" height="40" width="40" />
 </a>
 
   
@@ -58,6 +58,7 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently pursuing **B.Tech in CSE (3rd Year)**  
-- 🌱 Exploring **Full-Stack Development & Data Science**  
+- 🌱 Exploring **Full-Stack Development &  A world of AI **  
 - 🤝 Open to collaborate on **Web Development, Open Source, and Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain of **University Basketball Team**  
 - 🌍 Worked with **10+ clients**, including **4+ international projects**  
@@ -59,6 +59,7 @@
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

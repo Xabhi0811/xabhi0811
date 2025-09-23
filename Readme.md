@@ -51,11 +51,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Xabhi0811&theme=tokyonight&cache_seconds=1800" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabhi0811&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

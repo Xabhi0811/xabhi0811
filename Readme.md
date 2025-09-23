@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
 <h3 align="center">A passionate developer from Gwalior (M.P.), India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xabhi0811&label=Profile%20views&color=0e75b6&style=plastic" alt="Xabhi0811" /> </p>
 ---
 
 ### 👨‍💻 About Me
@@ -59,6 +60,7 @@
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

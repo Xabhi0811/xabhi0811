@@ -8,7 +8,7 @@
 - 🌱 Exploring **Full-Stack Development &  AI World   
 - 🤝 Open to collaborate on **Web Development, Open Source, and Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain of **University Basketball Team**  
-- 🌍 Worked with **5+ clients**, including ** Real WORLD PROJECT**  
+- 🌍 Worked with **5+ clients**, including **Real WORLD PROJECT**  
 - ⚡ Known for being **disciplined & quick to adapt** to new surroundings  
 
 ---
@@ -59,6 +59,7 @@
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

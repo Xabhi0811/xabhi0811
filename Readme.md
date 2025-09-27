@@ -18,7 +18,7 @@
 ### 🪶 Certification Badges
 
 <p align="left">
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank">
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="blank">
   <img align="center" src="/images/cloud1.jpeg" alt="LinkedIn" height="100" width="100" />
 </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="blank">
@@ -85,6 +85,7 @@
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

@@ -19,13 +19,13 @@
 
 <p align="left">
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="blank">
-  <img align="center" src="/images/cloud1.jpeg" alt="LinkedIn" height="150" width="150" />
+  <img align="center" src="/images/cloud1.jpeg" alt="LinkedIn" height="250" width="250" />
 </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="blank">
-  <img align="center" src="/images/ai1.jpeg" alt="AI Certificate" height="300" width="300" />
+  <img align="center" src="/images/ai1.jpeg" alt="AI Certificate" height="250" width="250" />
 </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="blank">
-  <img align="center" src="/images/devops.jpg" alt="DevOps Certificate" height="200" width="200" />
+  <img align="center" src="/images/devops.jpg" alt="DevOps Certificate" height="250" width="250" />
 </a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank">
   <img align="center" src="/images/cloud.jpeg" alt="Cloud Certificate" height="250" width="250" />
@@ -85,6 +85,7 @@
 ---
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

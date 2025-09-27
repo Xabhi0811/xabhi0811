@@ -13,6 +13,27 @@
 
 ---
 
+Certification Badges 🪶
+
+<p align="left">
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank">
+  <img align="center" src="/images/cloud1.jpeg" alt="LinkedIn" height="40" width="40" />
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="blank">
+  <img align="center" src="/images/ai1.jpeg" alt="Twitter/X" height="40" width="40" />
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="blank">
+  <img align="center" src="/images//devops.jpg" alt="devops certificate" height="40" width="40" />
+</a>
+
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank">
+  <img align="center" src="/images//cloud.jpeg" alt="LinkedIn" height="40" width="40" />
+</a>
+</p>
+
+
+---
+
 <a herh="/images/coding.gif">
 
 ### 🌐 Connect with Me

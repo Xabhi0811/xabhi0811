@@ -4,40 +4,43 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in CSE (3rd Year)**  
+### 👨‍💻 About Me  
+- 🎓 Pursuing **B.Tech in Computer Science (3rd Year)**  
 - 🌱 Exploring **Full-Stack Development & DevOps**  
-- 🤝 Open to collaborate on **Web Development, Open Source & Research Projects**  
-- 🏀 **State-Level Basketball Player** | Vice-Captain, **University Basketball Team**  
-- 🌍 Worked with **10+ clients**, including **4+ international projects**  
-- ⚡ Known for being **disciplined & quick to adapt**  
+- 🤝 Open to collaborate on **Web Apps, Open Source, & Research Projects**  
+- 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**  
+- 🌍 Worked with **10+ clients** including **4+ international projects**  
+- ⚡ Known for being **disciplined, adaptable & quick learner**  
 
 ---
 
-### 🪶 Certifications
+### 🪶 Certifications  
 <p align="center">
   <a href="#"><img src="/images/cloud1.jpeg" alt="Cloud Certification" height="90" width="90"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F"><img src="/images/ai1.jpeg" alt="AI Certification" height="90" width="90"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96"><img src="/images/devops.jpg" alt="DevOps Certification" height="90" width="90"/></a>
+</p>
+
+<p align="center">
   <a href="#"><img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="90" width="90"/></a>
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA"><img src="/images/postman.png" alt="Postman API Certification" height="90" width="90"/></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
+  <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://x.com/chabhichauhan" target="blank">
+  <a href="https://x.com/chabhichauhan" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
@@ -54,16 +57,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### 💡 Fun Fact
+### 💡 Fun Fact  
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
-

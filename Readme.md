@@ -89,7 +89,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" height="165" />
 </p>
 
@@ -101,10 +100,6 @@
 
 ---
 
-<!-- Coding GIF (Make sure this file exists in /images folder) -->
-<p align="center">
-  <img src="/images/coding.gif" alt="coding" width="500"/>
-</p>
 
 
 

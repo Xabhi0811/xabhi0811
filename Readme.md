@@ -90,7 +90,7 @@
 
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?user=Xabhi0811&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" height="165" />
 </p>
 
@@ -101,6 +101,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

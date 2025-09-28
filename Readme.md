@@ -31,7 +31,7 @@ Certification Badges 🪶
 </a>
 
 <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="blank">
-  <img align="center" src="/images/postman.png" alt="LinkedIn" height="40" width="40" />
+  <img align="center" src="/images/postman.png" alt="LinkedIn" height="200" width="200" />
 </a>
 </p>
 

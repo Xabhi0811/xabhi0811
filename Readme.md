@@ -15,7 +15,7 @@
 ---
 
 ### 🪶 Certifications  
-<p align="center">
+<p align="left">
   <a href="#"><img src="/images/cloud1.jpeg" alt="Cloud Certification" height="90" width="90"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F"><img src="/images/ai1.jpeg" alt="AI Certification" height="90" width="90"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96"><img src="/images/devops.jpg" alt="DevOps Certification" height="90" width="90"/></a>
@@ -69,3 +69,4 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+

@@ -21,7 +21,7 @@
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96"><img src="/images/devops.jpg" alt="DevOps Certification" height="90" width="90"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="90" width="90"/></a>
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA"><img src="/images/postman.png" alt="Postman API Certification" height="90" width="90"/></a>
 </p>
@@ -69,4 +69,5 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 

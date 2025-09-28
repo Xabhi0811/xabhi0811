@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
-<h3 align="center">🚀 Full-Stack Developer | ⚙️ DevOps Engineer </h3>
+<h3 align="center">🚀 Web Developer | ⚙️ DevOps Engineer </h3>
 
 ---
 
@@ -10,9 +10,9 @@
 - 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**  
 - 🌍 Worked with **10+ clients** including **4+ international projects**  
 - ⚡ Known for being **disciplined, adaptable & quick learner**
-- <p align="center">
+  <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
-</p>
+ </p>
 
 ---
 
@@ -101,6 +101,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

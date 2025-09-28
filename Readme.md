@@ -9,7 +9,10 @@
 - 🤝 Open to collaborate on **Web Apps, Open Source, & Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**  
 - 🌍 Worked with **10+ clients** including **4+ international projects**  
-- ⚡ Known for being **disciplined, adaptable & quick learner**  
+- ⚡ Known for being **disciplined, adaptable & quick learner**
+- <p align="center">
+  <img src="/images/coding.gif" alt="coding" width="500"/>
+</p>
 
 ---
 
@@ -37,9 +40,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="/images/coding.gif" alt="coding" width="500"/>
-</p>
 
 ### 🌐 Connect with Me  
 
@@ -54,12 +54,8 @@
 <a href="https://www.instagram.com/abhishek__0811/" target="blank">
   <img align="center" src="/images/instgram.png" alt="instgram" height="40" width="40" /> </a>
 
-<br>
 <a href="t.me/abhi081x" target="blank">
   <img align="center" src="/images/ChatGPT Image Sep 28, 2025, 10_18_45 PM.png" alt="telegram" height="40" width="40" /> </a>
-
-
-
 <a href="https://x.com/chabhichauhan" target="blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
 </a>
@@ -108,6 +104,7 @@
 <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
 </p>
+
 
 
 

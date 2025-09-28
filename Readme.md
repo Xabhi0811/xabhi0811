@@ -15,7 +15,7 @@
 
 ### 🪶 Certifications  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <!-- Row 1 -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="_blank">
     <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="200" width="200"/>
@@ -32,7 +32,7 @@
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="200" width="200"/>
   </a>
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
-    <img src="/images/postman.png" alt="Postman API Certification" height="150" width="150"/>
+    <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
   </a>
 </div>
 
@@ -63,9 +63,7 @@
 <a href="https://x.com/chabhichauhan" target="blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
 </a>
-</p>
-
-<a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
+</p><a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
   <img align="center" src="/images/ab.png" alt="Profolio" height="40" width="40" />
 </a>
 </p>
@@ -110,5 +108,6 @@
 <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
 </p>
+
 
 

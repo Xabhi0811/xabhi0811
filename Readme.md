@@ -19,11 +19,12 @@
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06"><img src="/images/cloud1.jpeg" alt="Cloud Certification" height="150" width="150"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6BB72197E41E31737EB503DCBC5BD7722F117D45CCE534BD42DE25AEB8D1842](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6BB72197E41E31737EB503DCBC5BD7722F117D45CCE534BD42DE25AEB8D1842"><img src="/images/ai1.jpeg" alt="AI Certification" height="150" width="150"/>
   </a>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96"><img src="/images/devops.jpg" alt="DevOps Certification" height="150" width="150"/></a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96"><img src="/images/devops.jpg" alt="DevOps Certification" height="150" width="150"/></a>
 </p>
 
 <p align="left">
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F"><img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="150" width="150"/></a>
+  
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA"><img src="/images/postman.png" alt="Postman API Certification" height="90" width="90"/></a>
 </p>
 
@@ -89,6 +90,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

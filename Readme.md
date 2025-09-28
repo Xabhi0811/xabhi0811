@@ -29,6 +29,10 @@ Certification Badges 🪶
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank">
   <img align="center" src="/images//cloud.jpeg" alt="LinkedIn" height="40" width="40" />
 </a>
+
+<a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="blank">
+  <img align="center" src="/images/postman.png" alt="LinkedIn" height="40" width="40" />
+</a>
 </p>
 
 

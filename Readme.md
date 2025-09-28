@@ -13,61 +13,38 @@
 
 
 ---
-
 🪶 Certification Badges
-<!--
-Layout: 3 badges on the top row, 2 badges on the bottom row, all centered.
-We use separate <p align="center"> tags for each row. Badges are sized 100x100.
--->
 
 <!-- Top Row: 3 Badges -->
-
 <p align="center">
-<!-- Badge 1: Cloud Certification -->
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-target="_blank"
-style="display: inline-block; margin: 0 10px;">
-<img src="/images/cloud1.jpeg" alt="Cloud Certification" height="100" width="100" />
-</a>
+  <!-- Badge 1: Cloud Certification -->
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
+    <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="100" width="100" style="margin: 0 10px;" />
+  </a>
 
-<!-- Badge 2: AI Certification -->
+  <!-- Badge 2: AI Certification -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
+    <img src="/images/ai1.jpeg" alt="AI Certification" height="100" width="100" style="margin: 0 10px;" />
+  </a>
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F"
-target="_blank"
-style="display: inline-block; margin: 0 10px;">
-<img src="/images/ai1.jpeg" alt="AI Certification" height="100" width="100" />
-</a>
-
-<!-- Badge 3: DevOps Certification -->
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96"
-target="_blank"
-style="display: inline-block; margin: 0 10px;">
-<img src="/images/devops.jpg" alt="DevOps Certification" height="100" width="100" />
-</a>
-
+  <!-- Badge 3: DevOps Certification -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
+    <img src="/images/devops.jpg" alt="DevOps Certification" height="100" width="100" style="margin: 0 10px;" />
+  </a>
 </p>
 
 <!-- Bottom Row: 2 Badges -->
-
 <p align="center">
-<!-- Badge 4: Cloud Specialist Certification -->
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-target="_blank"
-style="display: inline-block; margin: 0 10px;">
-<img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="100" width="100" />
-</a>
+  <!-- Badge 4: Cloud Specialist Certification -->
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
+    <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="100" width="100" style="margin: 0 10px;" />
+  </a>
 
-<!-- Badge 5: Postman API Certification -->
-
-<a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA"
-target="_blank"
-style="display: inline-block; margin: 0 10px;">
-<img src="/images/postman.png" alt="Postman API Certification" height="100" width="100" />
-</a>
-
+  <!-- Badge 5: Postman API Certification -->
+  <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
+    <img src="/images/postman.png" alt="Postman API Certification" height="100" width="100" style="margin: 0 10px;" />
+  </a>
 </p>
-
 ---
 
 <a herh="/images/coding.gif">
@@ -108,6 +85,7 @@ style="display: inline-block; margin: 0 10px;">
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

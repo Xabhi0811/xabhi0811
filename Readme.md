@@ -16,32 +16,26 @@
 <h2>🪶 Certification Badges</h2>
 
 <p align="left">
-  <!-- Cloud Certificate -->
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
-    <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="180" width="180" />
+    <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="120" width="120" />
   </a>
 
-  <!-- AI Certificate -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
-    <img src="/images/ai1.jpeg" alt="AI Certification" height="180" width="180" />
+    <img src="/images/ai1.jpeg" alt="AI Certification" height="120" width="120" />
   </a>
 
-  <!-- DevOps Certificate -->
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
-    <img src="/images/devops.jpg" alt="DevOps Certification" height="180" width="180" />
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
+    <img src="/images/devops.jpg" alt="DevOps Certification" height="120" width="120" />
   </a>
 
-  <!-- Cloud Specialist Certificate -->
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
-    <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="180" width="180" />
+    <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="120" width="120" />
   </a>
 
-  <!-- Postman API Certificate -->
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
-    <img src="/images/postman.png" alt="Postman API Certification" height="180" width="180" />
+    <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120" />
   </a>
 </p>
-
 
 ---
 
@@ -83,6 +77,7 @@
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+
 
 
 

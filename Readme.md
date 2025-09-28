@@ -26,7 +26,7 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
     <img src="/images/devops.jpg" alt="DevOps Certification" height="150" width="150"/>
   </a>
-
+<br>
   <!-- Row 2 -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="150" width="150"/>
@@ -37,34 +37,39 @@
 </div>
 
 ---
+<p align="center">
+  <img src="/images/coding.gif" alt="coding" width="500"/>
+</p>
 
 ### 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/channels/1421905646953037966/1421905647943028958" target="_blank">
-    <img src="/images/discord.png" alt="Discord" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/abhishek__0811/" target="_blank">
-    <img src="/images/instagram.png" alt="Instagram" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/abhi081x" target="_blank">
-    <img src="/images/telegram.png" alt="Telegram" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/chabhichauhan" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://my-protfolio-six-theta.vercel.app/" target="_blank">
-    <img src="/images/ab.png" alt="Portfolio" height="40" width="40"/>
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+
+  <a href="https://discord.com/channels/1421905646953037966/1421905647943028958" target="blank">
+  <img align="center" src="/images/discord.png" alt="discord" height="40" width="40" />
+</a>
+
+<a href="https://www.instagram.com/abhishek__0811/" target="blank">
+  <img align="center" src="/images/instgram.png" alt="instgram" height="40" width="40" /> </a>
+
+
+<a href="t.me/abhi081x" target="blank">
+  <img align="center" src="/images/ChatGPT Image Sep 28, 2025, 10_18_45 PM.png" alt="telegram" height="40" width="40" /> </a>
+
+
+
+<a href="https://x.com/chabhichauhan" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
+</a>
 </p>
+
+<a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
+  <img align="center" src="/images/ab.png" alt="Profolio" height="40" width="40" />
+</a>
+</p>
+
 
 ---
 
@@ -105,3 +110,4 @@
 <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
 </p>
+

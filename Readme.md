@@ -30,7 +30,7 @@ Certification Badges 🪶
   <img align="center" src="/images//cloud.jpeg" alt="LinkedIn" height="40" width="40" />
 </a>
 
-<a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="blank">
+<a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA](https://badgr.com/backpack/badges/68d9434122385f253382186d?navigationSource=backpack" target="blank">
   <img align="center" src="/images/postman.png" alt="LinkedIn" height="200" width="200" />
 </a>
 </p>
@@ -76,3 +76,4 @@ Certification Badges 🪶
 
 ### 💡 Fun Fact
 _"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+

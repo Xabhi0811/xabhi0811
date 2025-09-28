@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
-<h3 align="center">🚀 Full-Stack Developer | 📊 Data Science Enthusiast | 🏀 Basketball Player</h3>
+<h3 align="center">🚀 Full-Stack Developer | ⚙️ DevOps Engineer | 🏀 Basketball Player</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Pursuing **B.Tech in CSE (3rd Year)**  
-- 🌱 Exploring **Full-Stack Development & Data Science**  
+- 🌱 Exploring **Full-Stack Development & DevOps**  
 - 🤝 Open to collaborate on **Web Development, Open Source & Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain, **University Basketball Team**  
 - 🌍 Worked with **10+ clients**, including **4+ international projects**  
@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 </p>
@@ -62,3 +66,4 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+

@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <a href="#"><img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="90" width="90"/></a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="90" width="90"/></a>
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA"><img src="/images/postman.png" alt="Postman API Certification" height="90" width="90"/></a>
 </p>
 
@@ -69,5 +69,6 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 

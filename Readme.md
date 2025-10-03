@@ -34,7 +34,7 @@
 
   <!-- Row 2 -->
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; ">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="200" width="200"/>
   </a>
@@ -111,6 +111,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

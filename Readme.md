@@ -29,16 +29,18 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
     <img src="/images/devops.jpg" alt="DevOps Certification" height="200" width="200"/>
   </a>
-<br>
+
   <!-- Row 2 -->
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank" style="margin-left: 80px;">
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="200" width="200"/>
   </a>
+
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
     <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
   </a>
-   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
-    <img src="/images/OCI25FNDCFA (3).jpeg" alt="Postman API Certification" gap: 15px height="200" width="200"/>
+
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank" style="margin-left: -40px;">
+    <img src="/images/OCI25FNDCFA (3).jpeg" alt="Oracle Certification" height="200" width="200"/>
   </a>
 </div>
 
@@ -103,6 +105,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

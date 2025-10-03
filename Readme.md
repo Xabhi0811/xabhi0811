@@ -37,6 +37,9 @@
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
     <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
   </a>
+   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
+    <img src="/images/eCertificate (1)" alt="Postman API Certification" height="120" width="120"/>
+  </a>
 </div>
 
 ---
@@ -100,6 +103,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

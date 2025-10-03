@@ -17,38 +17,29 @@
 ---
 
 ### 🪶 Certifications  
-<div style="display: grid; grid-template-columns: repeat(3, 200px); grid-template-rows: auto auto; gap: 25px; justify-content: center; align-items: center;">
-
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <!-- Row 1 -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="_blank">
     <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="200" width="200"/>
   </a>
-
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6BB72197E41E31737EB503DCBC5BD7722F117D45CCE534BD42DE25AEB8D1842" target="_blank">
     <img src="/images/ai1.jpeg" alt="AI Certification" height="200" width="200"/>
   </a>
-
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22732BCFD5DC428A8727DD2A89FF82C5A7889FFDFE3D811D04774E9A2C88E96" target="_blank">
     <img src="/images/devops.jpg" alt="DevOps Certification" height="200" width="200"/>
   </a>
-
+<br>
   <!-- Row 2 -->
-
-<div style="display: flex; justify-content: center; ">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="200" width="200"/>
   </a>
-
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
     <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
   </a>
-
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" 
-     target="_blank">
-    <img src="/images/OCI25FNDCFA (3).jpeg" alt="Oracle Certification" height="200" width="200"/>
+   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
+    <img src="/images/OCI25FNDCFA (3).jpeg" alt="Postman API Certification" height="200" width="200"/>
   </a>
 </div>
-
 
 ---
 
@@ -111,6 +102,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

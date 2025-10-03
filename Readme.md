@@ -17,7 +17,7 @@
 ---
 
 ### 🪶 Certifications  
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; justify-items: center; align-items: center;">
   <!-- Row 1 -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="_blank">
     <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="200" width="200"/>
@@ -34,12 +34,13 @@
     <img src="/images/cloud.jpeg" alt="Cloud Specialist Certification" height="200" width="200"/>
   </a>
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
-    <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
+    <img src="/images/postman.png" alt="Postman API Certification" height="140" width="140"/>
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F09531412D248F6108598799EE62809FC6D091003781D5AC0E46EE7D876EF7F" target="_blank">
     <img src="/images/OCI25FNDCFA (3).jpeg" alt="Oracle Certification" height="200" width="200"/>
   </a>
 </div>
+
 
 ---
 
@@ -102,6 +103,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

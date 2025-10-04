@@ -7,8 +7,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science (3rd Year)**  
 - 🌱 Exploring **Full-Stack Development & DevOps**  
 - 🤝 Open to collaborate on **Web Apps, Open Source, & Research Projects**  
-- 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**  
-- 🌍 Worked with **10+ clients** including **4+ international projects**  
+- 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**   
 - ⚡ Known for being **disciplined, adaptable & quick learner**
   <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
@@ -48,7 +47,7 @@
 
 ### 🌐 Connect with Me  
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   <a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
@@ -105,6 +104,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

@@ -16,7 +16,7 @@
 ---
 
 ### 🪶 Certifications  
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <!-- Row 1 -->
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F14465216E157CC31993EF572CA24B8FA1C115F631476DB9CF199978C0A2A06" target="_blank">
     <img src="/images/cloud1.jpeg" alt="Cloud Certification" height="200" width="200"/>
@@ -104,6 +104,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

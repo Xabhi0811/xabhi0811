@@ -40,6 +40,10 @@
   <a href="https://badgr.com/public/assertions/dgYgDuPnSxanKZEXPu2GtA" target="_blank">
     <img src="/images/postman.png" alt="Postman API Certification" height="120" width="120"/>
   </a>
+
+   <a href="https://www.credly.com/badges/cf0a086a-2f6d-41e9-8705-f6e92688baf7/public_url" target="_blank">
+    <img src="/images/aws-knowledge-cloud-essentials-training-badge.png" alt="Cloud Essentials" height="120" width="120"/>
+  </a>
   
 </div>
 
@@ -104,6 +108,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

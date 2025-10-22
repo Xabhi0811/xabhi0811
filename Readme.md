@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (3rd Year)**  
-- 🌱 Exploring **Full-Stack Development & DevOps**  
+- 🌱 Exploring ** Web Development & DevOps**  
 - 🤝 Open to collaborate on **Web Apps, Open Source, & Research Projects**  
 - 🏀 **State-Level Basketball Player** | Vice-Captain, **University Team**   
 - ⚡ Known for being **disciplined, adaptable & quick learner**
@@ -106,6 +106,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

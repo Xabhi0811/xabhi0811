@@ -57,7 +57,7 @@
 </a>
 
   <a href="https://discord.com/channels/1421905646953037966/1421905647943028958" target="blank">
-  <img align="center" src="/images/discord.png" alt="discord" height="40" width="40" />
+  <img align="center" src="/images/discord.png" alt="discord" height="40" width="40" background-color: white />
 </a>
 
 <a href="https://www.instagram.com/abhishek__0811/" target="blank">
@@ -94,8 +94,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Xabhi0811&show_icons=true" alt="GitHub stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xabhi0811&theme=tokyonight" height="165" />
 </p>
 
@@ -106,6 +105,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

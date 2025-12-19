@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
-<h3 align="center">🚀 Web Developer | ⚙️ DevOps Engineer </h3>
+<h3 align="center">🚀 Web Developer </h3>
 
 ---
 
@@ -105,6 +105,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

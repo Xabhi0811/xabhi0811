@@ -73,6 +73,11 @@
 
 
 ---
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Xabhi0811)
+
+---
 
 ### 🛠️ Tech Stack  
 
@@ -105,6 +110,7 @@
 <p align="center"><i>"Discipline and adaptability are my strengths, whether it's on the court or in code."</i> 🚀</p>
 
 ---
+
 
 
 

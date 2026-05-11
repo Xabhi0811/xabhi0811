@@ -48,29 +48,26 @@
 ---
 
 ### 🌐 Connect with Me  
-
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
   <a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
-  <img align="center" src="/images/ab.png" alt="Profolio" height="40" width="40" />
-</a>
-
+    <img align="center" src="/images/ab.png" alt="Profolio" height="40" width="40" />
+  </a>
   <a href="https://discord.com/channels/1421905646953037966/1421905647943028958" target="blank">
-  <img align="center" src="/images/discord.png" alt="discord" height="40" width="40" background-color: white />
-</a>
-
-<a href="https://www.instagram.com/abhishek__0811/" target="blank">
-  <img align="center" src="/images/instgram.png" alt="instgram" height="40" width="40" /> </a>
-
-<a href="t.me/abhi081x" target="blank">
-  <img align="center" src="/images/ChatGPT Image Sep 28, 2025, 10_18_45 PM.png" alt="telegram" height="40" width="40" /> </a>
-<a href="https://x.com/chabhichauhan" target="blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
-</a>
+    <img align="center" src="/images/discord.png" alt="discord" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/abhishek__0811/" target="blank">
+    <img align="center" src="/images/instgram.png" alt="instgram" height="40" width="40" />
+  </a>
+  <a href="https://t.me/abhi081x" target="blank">
+    <img align="center" src="/images/ChatGPT Image Sep 28, 2025, 10_18_45 PM.png" alt="telegram" height="40" width="40" />
+  </a>
+  <a href="https://x.com/chabhichauhan" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" height="40" width="40" />
+  </a>
 </p>
-</p>
-
 
 ---
 ## GitHub Activity
@@ -80,8 +77,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-
-<p align="center"> 
+<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
@@ -92,7 +88,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-</p>
+</div>
 
 ---
 

@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
+  <a href="https://xabhi.duckdns.org/" target="blank">
     <img align="center" src="/images/ab.png" alt="Profolio" height="40" width="40" />
   </a>
   <a href="https://discord.com/channels/1421905646953037966/1421905647943028958" target="blank">

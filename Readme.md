@@ -70,9 +70,14 @@
 </p>
 
 ---
-## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Xabhi0811)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
 ---
 

@@ -7,7 +7,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science (3rd Year)**  
 - 🌱 Exploring **Web Development & DevOps**  
 - 🤝 Open to collaborate on **Web Apps, Open Source, & Research Projects**  
-- 🏀 **State-Level Basketball Player** | Sport Captain, **University Team**   
+- 🏀 **State-Level Basketball Player** | Sport Captain, **University**   
 - ⚡ Known for being **disciplined, adaptable & quick learner**
   <p align="center">
   <img src="/images/coding.gif" alt="coding" width="500"/>
